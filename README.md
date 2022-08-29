@@ -1,5 +1,5 @@
 # Smart_Band
-->> Monitor realtime temperature and heart rate through LCD display and in web via https://thingspeak.com/
+->> Monitor realtime temperature and blood oxygen level with LCD display and in web via https://thingspeak.com/
 Hardware required:
 1) MLX96014 IR Temperature Sensor
 2) MAX30102 Heart Rate Sensor
