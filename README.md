@@ -12,3 +12,5 @@ Hardware required:
 * Import libraries in the Arduino IDE accordingly.
 * Replace the wifi password and ThingSpeak credentials with your own.
 * Made for Arduino UNO
+  
+![image](https://github.com/vasukivasan/Smart_Band/assets/93860649/ee51ead2-d966-487e-9559-400b8ccf6345)
